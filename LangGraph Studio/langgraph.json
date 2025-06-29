@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "test": "./mini.py:agent"
+  },
+  "env": ".env"
+}
